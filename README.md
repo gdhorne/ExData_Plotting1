@@ -1,3 +1,5 @@
+## Data Science Specialization - Exploratory Data Analysis - Course Project 1
+
 ## Introduction
 
 This assignment uses data from
